@@ -23,4 +23,4 @@ Subir el proyecto a un repositorio git y adjuntar el link a dicho repositorio.
 
 ## Autores ✒️
 
-* **Andrés Villanueva** - [DAMChrisitian](https://github.com/DAMChristian)
+* **Christian Villanueva** - [DAMChrisitian](https://github.com/DAMChristian)
